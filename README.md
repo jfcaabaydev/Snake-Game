@@ -10,7 +10,7 @@ Snake game for gamers made with JavaScript
     git clone https://github.com/jfcaabaydev/Snake-Game
     ```
 
-2. Open the index.html file in a web browser to run the calculator.
+2. Open the index.html file in a web browser to run the Snake-Game.
 
 # Technologies Used
 - HTML
